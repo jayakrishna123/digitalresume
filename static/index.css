@@ -1,0 +1,210 @@
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+    background-color: slateblue;
+    padding: 13px 14px;
+    color: white;
+}
+p{
+    text-align: center;
+    color: #333333;
+}
+
+hr{
+     border-width: 5px;
+}
+.topnav {
+    background-color: slateblue;
+    overflow: hidden;
+    position: fixed; 
+    margin-right: auto;
+    margin-left: auto;
+}
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    width: 150px;
+
+}
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+    
+
+}
+.topnav a.active {
+    background-color: #4CAF50;
+}
+.progress-container {
+    width: 100%;
+    height: 8px;
+    background: #ccc;
+    position: fixed;
+    
+}
+  
+.progress-bar {
+    height: 8px;
+    background: #4caf50;
+    width: 0%;
+}
+.mypic{
+    height: 200px;
+    height: 200px;
+    border-radius: 80px;
+    
+}
+.krish{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+
+}
+.top{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    position: initial;
+
+}
+
+.button1{
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.5s;
+    cursor: pointer;
+    border-radius: 15px;
+    border: none;
+
+}
+.button1 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #008CBA;
+}
+.button1:hover {
+    background-color: #008CBA;
+    color: white;
+    border: none;
+}
+ul{
+    text-align: center;
+    color: red;
+}
+
+h4{
+    text-align: center;
+}
+.bottom{
+    background-color: slateblue;
+    overflow: hidden;
+    padding: 14px 14px;
+}
+/* .quote{
+    height: 200px;
+     
+} */
+
+.icon-bar {
+    position: fixed;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+  
+  /* Style the icon bar links */
+  .icon-bar a {
+    display: block;
+    text-align: center;
+    padding: 16px;
+    transition: all 0.3s ease;
+    color: white;
+    font-size: 20px;
+}
+  
+  /* Style the social media icons with color, if you want */
+.icon-bar a:hover {
+    background-color: #000;
+}
+  
+.facebook {
+    background: #3B5998;
+    color: white;
+}
+  
+.twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+.google {
+    background: #dd4b39;
+    color: white;
+  }
+  
+.linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  
+  .youtube {
+    background: #ff5700;
+
+    color: white;
+  }
+  .instagram{
+    background: #a4c639;
+  color: white;
+
+  }
+  
+  .content {
+    margin-left: 75px;
+    font-size: 30px;
+}
+/* .box{
+     width: 150px;
+     height: 147px;
+     background-color:transparent;
+     position: absolute;
+     top: 187%;
+     bottom: 0;
+     left: 38%;
+     right: 0;
+     margin: 10px;
+     border: 3px solid rgba(199, 185, 62, 0.877);
+} */
+.input{
+    height: 180px;
+    width: 400px;
+    text-align: center;
+    border: solid 2px maroon;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+@media (min-width: 768px){
+    
+}
+@media (min-width: 1200px){
+
+}
+

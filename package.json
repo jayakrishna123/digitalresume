@@ -1,0 +1,14 @@
+{
+  "name": "myblog",
+  "version": "1.0.0",
+  "description": "my blog",
+  "main": "home.js",
+
+  "author": "jaya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "1.19.0"
+
+  }
+}
