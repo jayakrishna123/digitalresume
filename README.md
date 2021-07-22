@@ -2,7 +2,7 @@
 
 Resume.
 
-<img src="">
+<img src="web.png">
 
 
 <br>
